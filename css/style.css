@@ -1,0 +1,98 @@
+<style type="text/css">
+[class*="col"] { margin-bottom: 20px; }
+img { width: 100%; }
+body { margin-top: 10px; }
+
+.logo{
+	width: 30px; 
+	height: 30px;
+	margin-left: 40px;
+}
+
+.cadre1{
+	width: 1349px;
+	height: 400px;
+}
+
+.ranger{
+	width: 25%;
+    float: right;
+    margin-top: 5px;
+}
+
+#header {
+	width: 1349px; 
+	height: 120px;
+}
+
+.souscadre{
+	width: 87.4%;
+	float: left;
+	margin-left: 170px;
+}
+
+.ranger1{
+	width: 83%;
+	height: 10px;
+}
+
+.cadre2{
+    width: 87%;
+    margin-left: 170px;
+}
+
+.cadre3{
+    width: 87%;
+    margin-left: 170px;
+}
+
+.cadre4{
+    width: 73%;
+    margin-left: 170px;
+}
+
+.cadre5{
+    width: 73%;
+    margin-left: 170px;
+}
+
+.contenu{
+	width: 1349px;
+	height: 260px;
+}
+
+.gauche{
+	width: 15%;
+	float: left;
+	margin:15px;
+}
+
+.droit{
+	width: 60%;
+	float: right;
+	margin-left: 30px;
+}
+
+.ranger2{
+	width: 100%
+}
+
+.bas{
+	width: 1349px;
+	height: 80px;
+}
+
+.ecriture{
+	width: 25%;
+	float: left;
+	margin-left: 60px;
+}
+
+.ecriture1{
+	width: 25%;
+	float: right;
+	margin-right: 20px;
+}
+
+</style>
+
